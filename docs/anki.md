@@ -1,0 +1,3 @@
+Um termo comum que se usa para dizer que você está acumulando vocabulário é *mining*, porque é literalmente um processo no qual você vai minerando palavras novas. Agora você deve está se perguntando a quantidade de palavras novas você deve aprender, 
+
+Escrevendo...

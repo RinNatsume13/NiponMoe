@@ -1,0 +1,48 @@
+site_name: NiponMoe
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    scheme: slate
+    primary: light blue
+
+  features:
+    - navigation.sections
+    - content.tooltips
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+
+extra:
+  generator: false
+
+
+
+
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Sobre: "index.md"
+
+  - Japonês:
+    - Introdução: 'intro.md'
+    - Leitura: 'leitura.md'
+
+  - Ferramentas:
+    - Yomichan: 'yomichan.md'
+    - Anki: 'anki.md'
