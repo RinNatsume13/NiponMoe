@@ -6,8 +6,8 @@ Esse é um guia de japonês para quem queira aprender sozinho atravéz das mídi
 
 Esse site foi inspirado no [TheMoeWay](https://learnjapanese.moe/) e [Animecards](https://animecards.site/) no quesito de escrever um guia em forma de documentação. Porém, o conteúdo é escrito do zero totalmente por mim. 
 
-**Todo conteúdo do site é disponibilizado gratuitamente.**
-
+- **Todo conteúdo do site é disponibilizado gratuitamente.**
+- **O site ainda está sendo feito**
 
 [Começar a leitura!](intro.md){ .md-button .md-button--primary }
 

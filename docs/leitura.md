@@ -93,7 +93,7 @@ graph LR
 
 Graças a isso, você consiguirá deduzir o significado de algumas palavras(apesar que sempre é bom conferir no dicionário) e terá mais facilidade para memorizá-las também.
 
-Então, você tem duas opções de estudar os kanjis. A primeira é aprendê-los ^^separadamente^^ como o diagrama acima. A principal vantagem disso é que para novos vocabulários, você terá uma tendência de memorizá-los mais rápidamente. Porém, isso pode tornar o estudo muito mais cansativo já que você gastará bem mais tempo tendo que decorar mais de 3000 kanjis. Já o segundo método é aprender com palavras, ou seja, quando você vê algo como 音楽家(músico), em vez de decorar 音, 楽, 家 separadamente, você decora a palavra inteira, o que pode ser bem mais simples caso você já saiba que 音楽 significa música.
+Então, você tem duas opções para estudar os kanjis. A primeira é aprendê-los ^^separadamente^^ como o diagrama acima. A principal vantagem disso é que para novos vocabulários, você terá uma tendência de memorizá-los mais rápidamente. Porém, isso pode tornar o estudo muito mais cansativo já que você gastará bem mais tempo tendo que decorar mais de 3000 kanjis. Já o segundo método é aprender com palavras, ou seja, quando você vê algo como 音楽家(músico), em vez de decorar 音, 楽, 家 separadamente, você decora a palavra inteira, o que pode ser bem mais simples caso você já saiba que 音楽 significa música.
 
 !!! note "Materiais para memorizar os kanjis isolados"
 
