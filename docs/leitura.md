@@ -119,15 +119,15 @@ Ou seja, se você estiver aprendendo kanjis da forma separada, decorar a sua pro
 
 Esse já é um tópico um pouco mais cansativo de se aprender no começo da língua. Mesmo assim, é um tópico bem direto no qual exige pegar um guia de gramática e tentar ler e reler algumas ou várias vezes até entender. Será normal você esquecer das coisas abordadas no guia de gramática, tendo que praticar bastante com leitura de material nativo e às vezes uma pesquisa na internet sobre dúvidas mais específicas. 
 
-O guia que recomendo(e o que eu usei também) é o Tae Kim, pois ele é algo bem direto e até que simples comparado outros guias mais famosos como a série de livros Genki. Eu recomendo começar o estudo a partir do Grammar guide e seguir até o *Advanced Topic* ou até mesmo no *Special Expressions* antes de começar qualquer obra(porém, você ainda pode começar qualquer obra antes mesmo de terminar o guia se tiver paciência de pesquisar por dúvidas). Um lembrete bom é que esse guia não cobre toda a gramática japonêsa, ou seja você vai ter que pesquisar por conta. Por exemplo, caso você se depare com そびれる, é só digitar no Google `そびれる grammar` e dar um ++enter++.
+O guia que recomendo(e o que eu usei também) é o Tae Kim, pois ele é algo bem direto e até que simples comparado outros guias mais famosos como a série de livros Genki. Se começar o estudo a partir do *Grammar guide* e seguir até o *Advanced Topic* ou até mesmo no *Special Expressions* antes de iniciar qualquer obra, sentirá muito mais fluidez. Porém,  você ainda pode pegar alguma obra que queira antes mesmo de terminar o guia, caso tenha paciência de parar a leitura e pesquisar por dúvidas. Um lembrete bom é que esse guia não cobre toda a gramática japonêsa, ou seja você vai ter que pesquisar o restante por conta. Por exemplo, caso você se depare com そびれる, é só digitar no Google `そびれる grammar` e dar um ++enter++.
 
 ![pesquisa](imagens/pesquisa.png)
 
-※ Algo que vale mencionar é que há uma tradução em português para o Tea Kim, porém alguns exemplos não fazem o menor sentido traduzido, já que o guia foi pesnsado em inglês e não em outro idioma. Então caso estrainhe alguns exemplos, saiba que pode ser por isso.
+※ Algo que vale mencionar é que há uma tradução em português para o Tea Kim, porém alguns exemplos não fazem o menor sentido traduzido, já que o guia foi pesnsado em inglês e não em outro idioma. Então caso estrainhe alguns exemplos, saiba que possivelmente é por isso.
 
 !!! note "Materiais interessantes"
 
-    [Tea Kim](https://guidetojapanese.org/learn/)
+    [Tea Kim](https://guidetojapanese.org/learn/): Pode iniciar sua leitura a partir do *Grammar guide*
 
     [Tea Kim em português](http://www.guidetojapanese.org/portuguese/index.html)
 
@@ -139,8 +139,8 @@ O guia que recomendo(e o que eu usei também) é o Tae Kim, pois ele é algo bem
 
     É recomendável você ler depois o tópico [ferramentas](yomichan.md) para entender como usar o Yomichan e o Anki ao seu favor. 
 
-Essa é a parte mais trabalhosa de qualquer língua e a mais importante. É o que costuma te impedir de ler obras mais complexas, pois se torna cansativo o fato de ter que pesquisar toda hora o significado de cada palavra desconhecida. É difícil estimar a quantidade de palavras que você tem que saber para ler algo fluidamente, também porque depende da complexidade da obra, então se prepare pra usar muito o ++shift++ para pesquisar as palavras com o yomichan.
+Essa é a parte mais trabalhosa de qualquer língua e a mais importante. É o que costuma te impedir de ler obras mais complexas, pois se torna cansativo o fato de ter que pesquisar toda hora o significado de cada palavra desconhecida. É difícil estimar a quantidade de palavras que você tem que saber para ler algo fluidamente, também porque depende da complexidade da obra. Então se prepare pra usar muito o ++shift++ para pesquisar as palavras com o yomichan.
 
-Para evitar que você tenha que pesquisar cada nova palavra nova encontrada, você pode pegar um deck pronto e colocar no Anki como o [Core2k](https://ankiweb.net/shared/info/2141233552), que tem as duas mil palavras mais comuns da língua japonesa. Isso talvez te encoraja bem mais a começar qualquer obra, porém se estiver ansioso(a) para ler algo ou não tiver paciência de memorizar duas mil palavras antes, você pode aprender na raça adicionando no anki cada palavra que não sabe. Lembre-se, sua primeira obra que for consumir em japonês será muito lento no começo justamente por ter muito pouco vocabulário, mas ao longo do tempo sua velocidade de leitura vai aumentando, então não desista!
+Para evitar que você tenha que pesquisar cada nova palavra nova encontrada, você pode pegar um deck pronto e colocar no Anki como o [Core2k](https://ankiweb.net/shared/info/2141233552), que tem as duas mil palavras mais comuns da língua japonesa. Isso talvez te encoraja bem mais a começar qualquer obra, porém se estiver ansioso(a) para ler algo ou não tiver paciência de memorizar duas mil palavras antes, você pode aprender na raça adicionando no anki cada palavra nova encontrada que não sabe. Lembre-se, sua primeira obra que for consumir em japonês será muito lento no começo justamente por ter muito pouco vocabulário, mas ao longo do tempo sua velocidade de leitura vai aumentando, então não desista!😉
 
 

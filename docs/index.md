@@ -11,6 +11,13 @@ Esse site foi inspirado no [TheMoeWay](https://learnjapanese.moe/) e [Animecards
 
 [Começar a leitura!](intro.md){ .md-button .md-button--primary }
 
+#Outros links
+
+[Discord :fontawesome-brands-discord:](https://discord.gg/ueEbbgUh2f){ .md-button .md-button--primary }
+
+
+
+
 
 
 

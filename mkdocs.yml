@@ -1,7 +1,6 @@
 site_name: NiponMoe
 theme:
   name: material
-  custom_dir: overrides
   language: pt-BR
   palette:
     scheme: slate
@@ -26,6 +25,9 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
   generator: false
