@@ -2,11 +2,11 @@
 
 ### Como levar o guia
 
-Em primeiro lugar, esse guia é junção de vários materias que são usados por mim e por outras pessoas que usam ou já usaram por um tempo e recomendam. 
+Em primeiro lugar, esse guia é a junção de vários materiais que são usados por mim e por outras pessoas que usam ou já usaram por um tempo e recomendam.
 
 Esse site não foi designado a fazer você seguir apenas uma forma de aprender, mas sim ter uma noção do que dar pra usar e decidir por conta própria o que mais combina com você. Pois não existe uma forma universal definitiva de aprender as coisas, varia de pessoa para pessoa. 
 
-Vale lembrar, o principal objetivo desse guia não é ser muito extenso e cansativo sobre os tópicos abordados. Então caso queira se aprofundar em um determinado assunto, ^^pesquise^^! A Wikipedia e o Google existem para isso.
+Vale lembrar, o principal objetivo deste guia não é ser muito extenso e cansativo sobre os tópicos abordados. Então, caso queira se aprofundar em um determinado assunto, pesquise! A Wikipédia e o Google existem para isso.
 
 E por último, tudo que disponibilizamos aqui é **100% gratuito**!
 
@@ -25,10 +25,10 @@ Sendo assim, sua sensação de aprendizado será parecido com o gráfico abaixo:
 
 ![gra](imagens/gra.png 'gra')
 
-No qual nas primeiras semanas de aprendizados quanda acabar de ter aprendido hiragana & katakana e um básico de grámatica sentirá sua confinça nas alturas, mas assim que tentar ler uma obra que tenha vontade ou avançar nos tópicos de gramática, sentirá cada vez menos confiança no idioma até chegar em uma parte de desânimo total. Não desista, porque isso é normal e uma hora ou outra vai acontecer, e se você continuar mesmo nesse estado, uma hora sua confiancia voltará a aumentar.  
+No qual nas primeiras semanas de aprendizados, quando ter aprendido hiragana & katakana e um básico de gramática sentirá sua confiança nas alturas, mas assim que tentar ler uma obra que tenha vontade ou avançar nos tópicos de gramática, sentirá cada vez menos confiança no idioma até chegar em uma parte de desânimo total. Não desista, porque isso é normal e uma hora ou outra vai acontecer, e se você continuar mesmo nesse estado, uma hora sua confiança voltará a aumentar. 
 
 ## Problema do guia
-Infelizmente no momento, não há muito material ou ferramenta em português, o que exigirá que você tenha pelo menos conhecimento de inglês básico para poder progredir mais rápido. Mesmo assim, não é algo que vai te impossibilitar de aprender porque ainda há algumas resalvas. A única coisa que vai realmente ser mais díficil será o estudo da gramática pois os poucos guias de gramáticas em potuguês tem uma qualidade de tradução bem duvidosa o que pode retardar um pouco o estudo.
+Infelizmente no momento, não há muito material ou ferramenta em português, o que exigirá que você tenha pelo menos conhecimento de inglês básico para poder progredir mais rápido. Mesmo assim, não é algo que vai te impossibilitar de aprender porque ainda há algumas ressalvas. A única coisa que vai realmente ser mais difícil será o estudo da gramática pois os poucos guias em potuguês tem uma qualidade de tradução bem duvidosa. O que pode retardar um pouco o estudo.
 
 ## Dúvidas iniciais
 
@@ -40,7 +40,7 @@ Infelizmente no momento, não há muito material ou ferramenta em português, o 
 
 ??? question "Por que não devo pagar por cursos online de japonês?"
 
-    Perda de dinheiro sinceramente. Enquanto você podia estar aprendendo muito mais de graça lendo algo que tenha vontade e anotando cada palavra ou regra gramátical nova, você fica preso no que eles querem te ensinar (que em geral é muita pouca coisa pelo preço cobrado).  
+    Perda de dinheiro sinceramente. Enquanto você podia estar aprendendo muito mais de graça lendo algo que tenha vontade e anotando cada palavra ou regra gramatical nova, você fica preso no que eles querem te ensinar (que em geral é muita pouca coisa pelo preço cobrado).  
 
 
 ??? question "Devo treinar lendo em romaji?"
