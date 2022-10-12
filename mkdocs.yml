@@ -1,6 +1,7 @@
 site_name: NiponMoe
 theme:
   name: material
+  custom_dir: overrides
   language: pt-BR
   palette:
     scheme: slate
