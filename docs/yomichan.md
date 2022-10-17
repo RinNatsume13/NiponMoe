@@ -33,7 +33,7 @@ A extensão ainda não está funcionando, pois ela não possui nenhum dicionári
  
  
 !!! tip "Dicionários que eu uso"
-    ``kireicake``, ``jmdict_english`` e ``kanjidic_english`` todos de frequência.
+    ``kireicake``, ``jmdict_english``, ``kanjidic_english`` e todos de frequência.
  
  
 1. Vá na aba ``Dictionaries`` no Yomichan e clique ``Configure installed and enabled dictionaries`` e depois em ```import```.
@@ -43,8 +43,6 @@ A extensão ainda não está funcionando, pois ela não possui nenhum dicionári
 Pronto! Agora é só apertar ++shift++ e terá o significado da palavra.
  
 ![4](imagens/yomichan-4.png)
- 
- 
  
  
  

@@ -1,4 +1,7 @@
 site_name: NiponMoe
+site_author: Rin chan
+site_description: Um guia fácil de como aprender japonês com animes, visual novel e light novels.
+
 theme:
   name: material
   language: pt-BR
@@ -9,6 +12,7 @@ theme:
   features:
     - navigation.sections
     - content.tooltips
+    - content.tabs.link
 
 
 markdown_extensions:
