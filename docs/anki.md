@@ -16,7 +16,7 @@ O Anki permite você instalar vários plugins e customizar o design do jeito que
 | ----------- | ------------------------------------ |      
 | [2055492159](https://ankiweb.net/shared/info/2055492159)   | Permitira sincronia com Yomichan(Veja o tópico de integração com yomichan)  |
 | [1771074083](https://ankiweb.net/shared/info/1771074083)   | Permitira você acompanhar e rever seu progresso ao longo do ano     | :material-check-all: Update resource |
-| [1020366288](https://ankiweb.net/shared/info/1020366288)   | Permitira você editar os cartões na mesma tela de revisão, apenas precione ++ctrl++ e clique com o botão esquerdo do mouse  | :material-close:     Delete resource |
+| [1020366288](https://ankiweb.net/shared/info/1020366288)   | Permitira você editar os cartões na mesma tela de revisão, apenas pressione ++ctrl++ e clique com o botão esquerdo do mouse  | :material-close:     Delete resource |
  
  
 #### Fields
@@ -65,7 +65,7 @@ Selecione o idioma do seu anki:
 #### Cards
 === "Inglês"
  
-    1. Pressione ++ctrl+shift+n++ novamente e clique em `Cards...`
+    1. Pressione ++ctrl+shift+n++ novamente, selecione `Yomichan` e clique em `Cards...`
     1. Em ``Front Template`` apague o conteúdo e cole o código abaixo:
         ```css
         <div style='font-family: BIZ UDGothic; font-size: 36px;'>{{edit:Front}}</div>
@@ -137,7 +137,7 @@ Selecione o idioma do seu anki:
  
 Como fazer os cards manualmente toma bastante tempo, se sincronizarmos o Anki e o Yomichan juntos, podemos então apenas apertar shift em uma palavra que não sabemos, e em seguida clicar em um + que nosso card já estará pronto automaticamente.
  
-1. Crie um deck primeiramente, por exemplo: 日本語
+1. Crie um deck primeiramente no anki, por exemplo: 日本語
 1. Vá nas configurações do Yomichan, clique para habilitar a integração com o Anki e selecione o Deck que você criou e o Modelo(no meu caso, 日本語 e yomichan respectivamente). ![ank_integração](imagens/anki_int.gif)
 1. Após isso, preencha os `value` da seguinte forma:
     - Front: ``{expression}``

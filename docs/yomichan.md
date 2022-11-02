@@ -1,6 +1,6 @@
 ## O que é Yomichan e pra que serve?
  
-Yomichan é um extensão código-aberto para navegadores baseados em Chromium ou no Firefox que permite você olhar o significado das palavras no dicionário local rapidamente apenas pressionando ++shift++ em cima da palavra.
+Yomichan é uma extensão código-aberto para navegadores baseados em Chromium ou no Firefox que permite você olhar o significado das palavras no dicionário local rapidamente apenas pressionando ++shift++ em cima da palavra.
  
 ## Instalação
  
@@ -9,7 +9,7 @@ Primeiro baixe a versão compatível com seu navegador:
 - [Chrome](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomichan/)
  
-Após isso você será direcionado para uma página de boas vindas, então clique em ``Settings`` em baixo da página ou clique na extensão e depois na engrenagem.
+Após isso você será direcionado para uma página de boas-vindas, então clique em ``Settings`` em baixo da página ou clique na extensão e depois na engrenagem.
  
 ![yomichan-1](imagens/yomichan-2.png)
  
@@ -29,7 +29,7 @@ A extensão ainda não está funcionando, pois ela não possui nenhum dicionári
     1. ``kireicake`` e ``jmdict_english`` são dicionários de japonês para inglês.
     1. (Extra) Tem um dicionário japonês para português traduzido pelo Deepl [aqui](https://github.com/eyeS-Code/jmdict_portuguese).
     1. ``kanjidic_english`` é um dicionário de Kanji de japonês para inglês.
-    1. ``JMnedict`` é um dicionários de nome
+    1. ``JMnedict`` é um dicionário de nome
  
  
 !!! tip "Dicionários que eu uso"

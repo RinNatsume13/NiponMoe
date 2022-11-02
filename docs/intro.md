@@ -14,21 +14,21 @@ E por último, tudo que disponibilizamos aqui é **100% gratuito**!
 
 Ela possui 3 alfabetos principais que são Hiragana, Katakana e os temidos Kanjis. Para você poder consumir obras japonesas, você precisa entender bem todos esses 3.
 
-Tanto o Hiragana quanto o Katakana são bem mais fáceis de decorar pois possuem poucos simbulos para se memorizar comparado ao Kanji, que a lista de simbulos que existem pode chegar a [200 mil](https://orientalsouls.com/blog/japanese-calligraphy/how-many-kanji-characters-are-there/). Porém obviamente a quantidade de kanjis utilizados frequentemente é por volta dos 3 mil (o Ministério de Educação Japonês estipula o uso de 2136 kanjis para serem ensinados nas escolas).
+Tanto o Hiragana quanto o Katakana são bem mais fáceis de decorar pois possuem poucos símbolos para se memorizar comparado ao Kanji, que a lista de símbolos que existem pode chegar a [200 mil](https://orientalsouls.com/blog/japanese-calligraphy/how-many-kanji-characters-are-there/). Porém obviamente a quantidade de kanjis utilizados frequentemente é por volta dos 3 mil (o Ministério de Educação Japonês estipula o uso de 2136 kanjis para serem ensinados nas escolas).
 
 **Veja o tópico [Leitura](leitura.md) para mais detalhes.**
 
 ## Dificuldade do idioma
-Japonês definitivamente é bem mais difícil do que inglês ou espanhol, pois é uma língua com poucas palavras parecidas e uma gramática completamente diferente do que a gente está acostumado. Mas mesmo assim, não é um bicho de sete cabeças pelo motivo que muitas dúvidas que você terá ao longo do caminho, possivelmente terá uma resposta na internet fácil de pesquisar.Por isso não há muito a necessidade de ter um professor ou tutor.
+Japonês definitivamente é bem mais difícil do que inglês ou espanhol, pois é uma língua com poucas palavras parecidas e uma gramática completamente diferente do que a gente está acostumado. Mesmo assim, não é um bicho de sete cabeças pelo motivo que muitas dúvidas que você terá ao longo do caminho, possivelmente terá uma resposta na internet fácil de pesquisar. Por isso não há muito a necessidade de ter um professor ou tutor.
 
-Sendo assim, sua sensação de aprendizado será parecido com o gráfico abaixo:
+Sendo assim, sua sensação de aprendizado será parecida com o gráfico abaixo:
 
 ![gra](imagens/gra.png 'gra')
 
 No qual nas primeiras semanas de aprendizados, quando ter aprendido hiragana & katakana e um básico de gramática sentirá sua confiança nas alturas, mas assim que tentar ler uma obra que tenha vontade ou avançar nos tópicos de gramática, sentirá cada vez menos confiança no idioma até chegar em uma parte de desânimo total. Não desista, porque isso é normal e uma hora ou outra vai acontecer, e se você continuar mesmo nesse estado, uma hora sua confiança voltará a aumentar. 
 
 ## Problema do guia
-Infelizmente no momento, não há muito material ou ferramenta em português, o que exigirá que você tenha pelo menos conhecimento de inglês básico para poder progredir mais rápido. Mesmo assim, não é algo que vai te impossibilitar de aprender porque ainda há algumas ressalvas. A única coisa que vai realmente ser mais difícil será o estudo da gramática pois os poucos guias em potuguês tem uma qualidade de tradução bem duvidosa. O que pode retardar um pouco o estudo.
+Infelizmente no momento, não há muito material ou ferramenta em português, o que exigirá que você tenha pelo menos conhecimento de inglês básico para poder progredir mais rápido. Mesmo assim, não é algo que vai te impossibilitar de aprender porque ainda há algumas ressalvas. A única coisa que vai realmente ser mais difícil será o estudo da gramática pois os poucos guias em português tem uma qualidade de tradução bem duvidosa. O que pode retardar um pouco o estudo.
 
 ## Dúvidas iniciais
 

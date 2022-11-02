@@ -66,7 +66,7 @@ Um método simples de memorizar todos os katakanas e hiraganas é o uso de sites
 
 #### Utilidade
 
-Kanji são os demais caracteres da língua japonesa adotados do chinês(mas com sua modificações na escrita) como 日, 政, 磯. No qual um ou a combinação entre eles(ou entre hiraganas e  raros casos o katakana) podem finalmente formar as palavras. 
+Kanji são os demais caracteres da língua japonesa adotados do chinês(mas com suas modificações na escrita) como 日, 政, 磯. No qual um ou a combinação entre eles(ou entre hiraganas e  raros casos o katakana) podem finalmente formar as palavras. 
 
 Como observaram, alguns kanjis têm traços muito mais complexos do que os kanas. A utilidade disso é para se diferenciar o mesmo som de palavras diferente(antônimos), por exemplo: O som kami pode significar **papel, deus, cabelo e tempero**. Então se estivesse escrito somente em hiragana como かみ, ficaria difícil dizer qual かみ está se referindo. Agora com o kanji, podemos escrever 紙(papel), 神(deus), 髪(cabelo) ou 加味(tempero).
 
@@ -113,7 +113,7 @@ Como os kanjis foram importados do chinês, há algumas pronúncias de alguns ka
 
 Tanto o kun(kun-yomi) e o on(On-yomi) são formas de ler o kanji. A diferença é que *kun* é a pronúncia de um determinado kanji em japonês e o *on* para chinês. Agora, dependendo do kanji, ele pode ter diversas formas diferentes de se ler, e também não possui uma regra quando se usa as pronúncias. Por exemplo, essas palavras 日[ひ], 毎日[まいにち], 誕生日[ たんじょうび ], 日記[にっき] possuem várias formas de pronunciar o 日.
 
-Ou seja, se você estiver aprendendo kanjis da forma separada, decorar a sua pronúncia será mais trabalhoso e quase sem muito efeito, já que você pode ter que memorizar mais de 10 pronúncias diferentes . ^^Então não é recomendável estudar isso^^. 
+Ou seja, se você estiver aprendendo kanjis da forma separada, decorar a sua pronúncia será mais trabalhoso e quase sem muito efeito, já que você pode ter que memorizar mais de 10 pronúncias diferentes. ^^Então não é recomendável estudar isso^^. 
 
 ## Gramática
 
@@ -141,6 +141,6 @@ O guia que recomendo(e o que eu usei também) é o Tae Kim, pois ele é algo bem
 
 Essa é a parte mais trabalhosa de qualquer língua e a mais importante. É o que costuma te impedir de ler obras mais complexas, pois se torna cansativo o fato de ter que pesquisar toda hora o significado de cada palavra desconhecida. É difícil estimar a quantidade de palavras que você tem que saber para ler algo fluidamente, também porque depende da complexidade da obra. Então se prepare pra usar muito o ++shift++ para pesquisar as palavras com o yomichan.
 
-Para evitar que você tenha que pesquisar cada nova palavra nova encontrada, você pode pegar um deck pronto e colocar no Anki como o [Core2k](https://ankiweb.net/shared/info/2141233552), que tem as duas mil palavras mais comuns da língua japonesa. Isso talvez te encoraje bem mais a começar qualquer obra, porém se estiver ansioso(a) para ler algo ou não tiver paciência de memorizar duas mil palavras antes, você pode aprender na raça adicionando no anki cada palavra nova encontrada que não sabe. Lembre-se, sua primeira obra que for consumir em japonês será muito lento no começo justamente por ter muito pouco vocabulário, mas ao longo do tempo sua velocidade de leitura vai aumentando, então não desista!😉
+Para evitar que você tenha que pesquisar cada nova palavra nova encontrada, você pode pegar um deck pronto e colocar no Anki como o [Core2k](https://ankiweb.net/shared/info/2141233552), que tem as duas mil palavras mais comuns da língua japonesa. Isso talvez te encoraje bem mais a começar qualquer obra, porém se estiver ansioso(a) para ler algo ou não tiver paciência de memorizar duas mil palavras antes, você pode aprender na raça adicionando no Anki cada palavra nova encontrada que não sabe. Lembre-se, sua primeira obra que for consumir em japonês será muito lento no começo justamente por ter muito pouco vocabulário, mas ao longo do tempo sua velocidade de leitura vai aumentando, então não desista!😉
 
 
