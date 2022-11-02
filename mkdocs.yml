@@ -60,3 +60,6 @@ nav:
   - Ferramentas:
     - Yomichan: 'yomichan.md'
     - Anki: 'anki.md'
+
+  - Mídias:
+    - Visual Novel: "vn.md"
