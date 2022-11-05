@@ -20,9 +20,13 @@ Todos os materiais comentados aqui valem a pena ser conferidos. Caso também con
 
 ### Kanjis
 
-- [RTK - Remembering The Kanji](https://drive.google.com/drive/folders/1HF-UW9XKjWe4ZHkbFUVfZfUQ568S2jR7) - Possui a ideia do kanji junto com uma explicação.
+- [RTK - Remembering The Kanji](https://drive.google.com/drive/folders/1TqaLLIYC_6opSpxpMsJJfGpp7-abTOBo) (Português) - Possui a ideia do kanji junto com uma explicação.
 
-- [Basic Kanji Book](https://drive.google.com/file/d/0B1pCeaDy11Z-SVVhc3RLdHZyZG8/view?resourcekey=0-Du5PRdtv97IAzX6RmZ2YKQ) - Particularmente, prefiro esse livro sobre o RTK devido alguns exercícios tranquilos de responder e também porque cada kanji mostrado possui o exemplo de palavras que o utiliza.
+- [Basic Kanji Book](https://drive.google.com/file/d/0B1pCeaDy11Z-SVVhc3RLdHZyZG8/view?resourcekey=0-Du5PRdtv97IAzX6RmZ2YKQ) (Inglês) - Particularmente, prefiro esse livro sobre o RTK devido alguns exercícios tranquilos de responder e também porque cada kanji mostrado possui o exemplo de palavras que o utiliza.
+
+### Dicionário
+
+- [Jisho](https://jisho.org/) - Principal dicionário de inglês-japonês
 
 ## Mídias 
 

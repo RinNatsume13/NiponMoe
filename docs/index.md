@@ -1,5 +1,7 @@
 # ようこそ
  
+Última modificação: 05/11/2022
+
 ![mio](imagens/mio.png)
  
 Esse é um guia de japonês para quem queira aprender sozinho através das mídias que amam como animes, visual novel, manga, light novel... etc etc. Além disso, ensinamos como usar as principais ferramentas que ajudarão no processo (como Textextractor, Anki e Yomechan) para poderem curtir suas obras.
@@ -15,7 +17,8 @@ Caso tenha um tópico que não esteja muito claro ou incompleto, sinta-se à von
  
 #Outros links
  
-[Discord :fontawesome-brands-discord:](https://discord.gg/ueEbbgUh2f){ .md-button .md-button--primary }
+[Discord :fontawesome-brands-discord:](https://discord.gg/ppqMwPSQmm){ .md-button .md-button--primary }
+
  
  
  

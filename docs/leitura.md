@@ -97,7 +97,9 @@ Então, você tem duas opções para estudar os kanjis. A primeira é aprendê-l
 
 !!! note "Materiais para memorizar os kanjis isolados"
 
-    [Remembering the Kanji](https://drive.google.com/drive/folders/1HF-UW9XKjWe4ZHkbFUVfZfUQ568S2jR7?usp=sharing): abreviado como RTK, é um livro bem popular focado em fazer você memorizar os ^^kanjis separadamente^^. Infelizmente o livro não possui tradução para o português.
+    [Remembering the Kanji](https://drive.google.com/drive/folders/1TqaLLIYC_6opSpxpMsJJfGpp7-abTOBo) (Português): abreviado como RTK, é um livro bem popular focado em fazer você memorizar os ^^kanjis separadamente^^. Infelizmente possue apenas o volume 1. 
+
+    [Remembering the Kanji](https://drive.google.com/drive/folders/1HF-UW9XKjWe4ZHkbFUVfZfUQ568S2jR7?usp=sharing) (Inglês):  Todos os volumes.
 
     [Jisho](https://jisho.org/): Um dicionário de palavras e kanjis. Lá você encontra as derivações dos kanjis e a lista dos mais comuns ou mais raros.
 
@@ -119,6 +121,8 @@ Ou seja, se você estiver aprendendo kanjis da forma separada, decorar a sua pro
 
 Esse já é um tópico um pouco mais cansativo de se aprender no começo da língua. Mesmo assim, é um tópico bem direto no qual exige pegar um guia de gramática e tentar ler e reler algumas ou várias vezes até entender. Será normal você esquecer das coisas abordadas no guia de gramática, tendo que praticar bastante com leitura de material nativo e às vezes uma pesquisa na internet sobre dúvidas mais específicas. 
 
+### Tea Kim
+
 O guia que recomendo(e o que eu usei também) é o Tae Kim, pois ele é algo bem direto e até que simples comparado a outros guias mais famosos como a série de livros Genki. Se começar o estudo a partir do *Grammar guide* e seguir até o *Advanced Topic* ou até mesmo no *Special Expressions* antes de iniciar qualquer obra, sentirá muito mais fluidez. Porém,  você ainda pode pegar alguma obra que queira antes mesmo de terminar o guia, caso tenha paciência de parar a leitura e pesquisar por dúvidas. Um lembrete bom é que esse guia não cobre toda a gramática japonesa, ou seja você vai ter que pesquisar o restante por conta. Por exemplo, caso você se depare com そびれる, é só digitar no Google `そびれる grammar` e dar um ++enter++.
 
 ![pesquisa](imagens/pesquisa.png)
@@ -132,6 +136,14 @@ O guia que recomendo(e o que eu usei também) é o Tae Kim, pois ele é algo bem
     [Tea Kim em português](http://www.guidetojapanese.org/portuguese/index.html)
 
     [jlptsensei](https://jlptsensei.com/): Os conteúdos aqui são fáceis de entender. Porém abordar mais algumas regras gramaticais mais focadas no JLPT(mesmo assim, será coisas que você encontrará no meio da sua leitura de qualquer mídia)
+
+### Genki
+
+Um livro muito tradicional sobre gramática japonesa é Genki, onde seu principal foco são nas provas do JLPT. Porém o motivo de eu não recomendar(pelo menos no início) o uso dele é pelo seguinte: O livro foi projetado para ser ensinado em sala de aula com um professor ou tutor. Se você for um completo iniciante no japonês sendo um autodidata, não entenderá nada estudando. Mas caso já tenha um bom conhecimento de gramática e um vocabulário mediano, o livro te ajuda a entender algumas lógicas gramaticais que faltavam no Tea Kim.
+ 
+!!! note "Links do Genki"
+
+    [Genki](https://drive.google.com/drive/folders/12Xgs7NreSpM8c-5C-01fNmsQviQReqd8):  O link possue os primeiros dois volumes da versão em inglês do Genki. Cada volume vem com mais dois livros. Um Textbook de parte teórica e outro de exercício chamado Workbaook(Não faça se não tiver um professor pra te corrigir). A lógica é semelhante aos livros que são passados em escolas de inglês.
 
 ## Vocabulário
 
